@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Item list for Ice Hockey
+* Stick 
+* Gloves
+* Puck 
